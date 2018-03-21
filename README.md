@@ -21,8 +21,5 @@ How-to
 
   (For x64 windows, get exe [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame))
 
-ScreenShot
-----------
-
 
 [1]: http://www.pygame.org
