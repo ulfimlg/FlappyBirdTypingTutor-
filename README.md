@@ -1,7 +1,7 @@
 FlappyBirdTypingTutor
 ===============
 
-A Flappy Bird Clone made using [python-pygame][1]
+An AI agent that learns to play [Flappy Bird Typing Tutor by Mr Speaker](https://www.mrspeaker.net/dev/game/flappy/), that I buld as my University Project.
 
 How-to
 ------
