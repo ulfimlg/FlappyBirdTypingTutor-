@@ -24,6 +24,6 @@ How-to
 ScreenShot
  ----------
  
--![Flappy Bird](screenshot.png)
+-![Flappy Bird](Screenshot.png)
 
 [1]: http://www.pygame.org
