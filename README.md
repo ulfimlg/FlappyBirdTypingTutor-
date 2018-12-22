@@ -1,7 +1,7 @@
 FlappyBirdTypingTutor
 ===============
 
-An AI agent that learns to play [Flappy Bird Typing Tutor by Mr Speaker](https://www.mrspeaker.net/dev/game/flappy/), that I buld as my University Project.
+An AI agent that learns to play [Flappy Bird Typing Tutor by Mr Speaker](https://www.mrspeaker.net/dev/game/flappy/), that I built as my University Project.
 
 How-to
 ------
